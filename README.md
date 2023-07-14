@@ -1,5 +1,6 @@
 # Todo-app
 ### Live app: https://todo-frontend-flame-beta.vercel.app/
+Todo backend is deployed on **Render**. **Render** automatically stops the server after a few minutes of inactivity. So, it will take upto 2 minutes for the server to get up and running. 
 
 ## Backend Setup Instructions
 - cd into todo-backend
