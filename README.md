@@ -16,5 +16,5 @@ Todo backend is deployed on **Render**. **Render** automatically stops the serve
 ## Frontend Setup Instructions
 - cd into todo-frontend
 - Run ```npm install```
-- Go to src/app/apis/configs/axiosConfig.js and replace baseURL to your http:\\{YOUR_IP_ADDRESS}:{PORT}
+- Go to src/app/apis/configs/axiosConfig.js and replace baseURL to your **http:\\\{__YOUR_IP_ADDRESS__}:{__PORT__}**
 - Run ```npm run dev``` to start the frontend
